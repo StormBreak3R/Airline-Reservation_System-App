@@ -71,6 +71,9 @@ that was given to them during the reservation process. They can then cancel thei
 ## Architecture Design
 ### ER Diagram
 
+![Capture](https://user-images.githubusercontent.com/89790414/142877556-eb6b0c2e-0616-454a-b076-0e547d3e9196.PNG)
+
+
 ## Data Design
 > This section describes the category of data required by the system. Because there is no actual
 complete data set available for use, we will produce the needed data synthetically. This data will be 
